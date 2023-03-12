@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eibbie
 - 👀 I’m interested in learning to code and more
-- 🌱 I’m currently learning all sorts of stuff, some useful, some not so much
-- 💞️ I’m looking to collaborate on ... time will tell!
+- 🌱 I’m currently learning all sorts of stuff, some useful, some not so much!
 - 📫 How to reach me - e.cardanean@gmail.com
 
 <!---
